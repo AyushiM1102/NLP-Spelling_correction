@@ -1,4 +1,4 @@
-# nlp-ml
+# Spelling Correction
 
 This is a spelling correction project that takes in text documents with identified mispelled words (with one letter in each corrupted as · [ASCII 183]) and predict the true words. The sample text can be found in text files ending with `.dot` and some of their uncorrupted version in the files with same prefix ending with `.txt`.
 
