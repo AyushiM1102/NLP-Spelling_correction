@@ -12,7 +12,7 @@ This is a spelling correction project that takes in text documents with identifi
 
 ## Code
 
-Code for all 3 models can be found in `ML 349_Project_NB+FFNN.ipynb`.
+Code for pre-processing and all 3 models can be found in `ML 349_Project_NB+FFNN.ipynb`.
 
 ## Report
 
